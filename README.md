@@ -24,33 +24,33 @@ Usage
 Example
 
 bash
-
-Input decryption or encryption key:
-SECRET
-
-Input text to encode or decode:
-HELLO WORLD
-
-Would you like to encrypt or decrypt?
-ENCRYPT
-
-Output: ZIGGNKGLRM
+    
+    Input decryption or encryption key:
+    SECRET
+    
+    Input text to encode or decode:
+    HELLO WORLD
+    
+    Would you like to encrypt or decrypt?
+    ENCRYPT
+    
+    Output: ZIGGNKGLRM
 
 In this example, the message HELLO WORLD was encrypted using the key SECRET.
 Example 2: Decryption
 
 bash
-
-Input decryption or encryption key:
-SECRET
-
-Input text to encode or decode:
-ZIGGNKGLRM
-
-Would you like to encrypt or decrypt?
-DECRYPT
-
-Output: HELLOWORLD
+    
+    Input decryption or encryption key:
+    SECRET
+    
+    Input text to encode or decode:
+    ZIGGNKGLRM
+    
+    Would you like to encrypt or decrypt?
+    DECRYPT
+    
+    Output: HELLOWORLD
 
 Requirements
 
@@ -62,4 +62,4 @@ To run the program, open a terminal and execute the following command:
 
 bash
 
-python vigenere_cipher.py
+    python vigenere_cipher.py
