@@ -62,4 +62,4 @@ To run the program, open a terminal and execute the following command:
 
 bash
 
-    python vigenere_cipher.py
+    python vigenere.py
